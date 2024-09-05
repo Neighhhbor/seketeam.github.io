@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seketeam.github.io/sitemap.xml
+Sitemap: https://neighhhbor.github.io/sitemap.xml
